@@ -1,0 +1,12 @@
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\TodoApp.Core\bin\Debug\net8.0\TodoApp.Core.deps.json
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\TodoApp.Core\bin\Debug\net8.0\TodoApp.Core.dll
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\TodoApp.Core\bin\Debug\net8.0\TodoApp.Core.pdb
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\TodoApp.Core\obj\Debug\net8.0\TodoApp.Core.csproj.AssemblyReference.cache
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\TodoApp.Core\obj\Debug\net8.0\TodoApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\TodoApp.Core\obj\Debug\net8.0\TodoApp.Core.AssemblyInfoInputs.cache
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\TodoApp.Core\obj\Debug\net8.0\TodoApp.Core.AssemblyInfo.cs
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\TodoApp.Core\obj\Debug\net8.0\TodoApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\TodoApp.Core\obj\Debug\net8.0\TodoApp.Core.dll
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\TodoApp.Core\obj\Debug\net8.0\refint\TodoApp.Core.dll
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\TodoApp.Core\obj\Debug\net8.0\TodoApp.Core.pdb
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\TodoApp.Core\obj\Debug\net8.0\ref\TodoApp.Core.dll
