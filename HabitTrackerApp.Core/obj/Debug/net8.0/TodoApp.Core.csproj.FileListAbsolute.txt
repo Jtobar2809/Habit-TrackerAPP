@@ -1,0 +1,13 @@
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\HabitTrackerApp.Core\bin\Debug\net8.0\HabitTrackerApp.Core.deps.json
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\HabitTrackerApp.Core\bin\Debug\net8.0\HabitTrackerApp.Core.dll
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\HabitTrackerApp.Core\bin\Debug\net8.0\HabitTrackerApp.Core.pdb
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\HabitTrackerApp.Core\obj\Debug\net8.0\HabitTrackerApp.Core.csproj.AssemblyReference.cache
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\HabitTrackerApp.Core\obj\Debug\net8.0\HabitTrackerApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\HabitTrackerApp.Core\obj\Debug\net8.0\HabitTrackerApp.Core.AssemblyInfoInputs.cache
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\HabitTrackerApp.Core\obj\Debug\net8.0\HabitTrackerApp.Core.AssemblyInfo.cs
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\HabitTrackerApp.Core\obj\Debug\net8.0\HabitTrackerApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\HabitTrackerApp.Core\obj\Debug\net8.0\HabitTrackerApp.Core.dll
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\HabitTrackerApp.Core\obj\Debug\net8.0\refint\HabitTrackerApp.Core.dll
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\HabitTrackerApp.Core\obj\Debug\net8.0\HabitTrackerApp.Core.pdb
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\HabitTrackerApp.Core\obj\Debug\net8.0\ref\HabitTrackerApp.Core.dll
+C:\Users\SDB\Desktop\ToDoList (Completo)\ToDoList\HabitTrackerApp.Core\obj\Debug\net8.0\HabitTrackerApp.Core.sourcelink.json
