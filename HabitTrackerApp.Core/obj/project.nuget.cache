@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+X4P5gM+mHw=",
+  "dgSpecHash": "0RY56oSMCOk=",
   "success": true,
-  "projectFilePath": "D:\\jtoba\\Documents\\Programacion\\Proyectos\\HABITOS\\HABIT-TRACKER\\Habit-Tracker\\HabitTrackerApp.Core\\HabitTrackerApp.Core.csproj",
+  "projectFilePath": "D:\\jtoba\\Documents\\Programacion\\Proyectos\\Habit-Tracker\\Habit-Tracker\\HabitTrackerApp.Core\\HabitTrackerApp.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jtoba\\.nuget\\packages\\dapper\\2.1.72\\dapper.2.1.72.nupkg.sha512",
     "C:\\Users\\jtoba\\.nuget\\packages\\microsoft.data.sqlite\\8.0.0\\microsoft.data.sqlite.8.0.0.nupkg.sha512",

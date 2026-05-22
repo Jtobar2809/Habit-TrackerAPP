@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\jtoba\\Documents\\Programacion\\Proyectos\\HABITOS\\HABIT-TRACKER\\Habit-Tracker\\HabitTrackerApp.Core\\HabitTrackerApp.Core.csproj": {}
+    "D:\\jtoba\\Documents\\Programacion\\Proyectos\\Habit-Tracker\\Habit-Tracker\\HabitTrackerApp.Core\\HabitTrackerApp.Core.csproj": {}
   },
   "projects": {
-    "D:\\jtoba\\Documents\\Programacion\\Proyectos\\HABITOS\\HABIT-TRACKER\\Habit-Tracker\\HabitTrackerApp.Core\\HabitTrackerApp.Core.csproj": {
+    "D:\\jtoba\\Documents\\Programacion\\Proyectos\\Habit-Tracker\\Habit-Tracker\\HabitTrackerApp.Core\\HabitTrackerApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\jtoba\\Documents\\Programacion\\Proyectos\\HABITOS\\HABIT-TRACKER\\Habit-Tracker\\HabitTrackerApp.Core\\HabitTrackerApp.Core.csproj",
+        "projectUniqueName": "D:\\jtoba\\Documents\\Programacion\\Proyectos\\Habit-Tracker\\Habit-Tracker\\HabitTrackerApp.Core\\HabitTrackerApp.Core.csproj",
         "projectName": "HabitTrackerApp.Core",
-        "projectPath": "D:\\jtoba\\Documents\\Programacion\\Proyectos\\HABITOS\\HABIT-TRACKER\\Habit-Tracker\\HabitTrackerApp.Core\\HabitTrackerApp.Core.csproj",
+        "projectPath": "D:\\jtoba\\Documents\\Programacion\\Proyectos\\Habit-Tracker\\Habit-Tracker\\HabitTrackerApp.Core\\HabitTrackerApp.Core.csproj",
         "packagesPath": "C:\\Users\\jtoba\\.nuget\\packages\\",
-        "outputPath": "D:\\jtoba\\Documents\\Programacion\\Proyectos\\HABITOS\\HABIT-TRACKER\\Habit-Tracker\\HabitTrackerApp.Core\\obj\\",
+        "outputPath": "D:\\jtoba\\Documents\\Programacion\\Proyectos\\Habit-Tracker\\Habit-Tracker\\HabitTrackerApp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jtoba\\AppData\\Roaming\\NuGet\\NuGet.Config"

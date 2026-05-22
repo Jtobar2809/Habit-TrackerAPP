@@ -11,3 +11,16 @@ D:\jtoba\Documents\Programacion\Proyectos\HABITOS\HABIT-TRACKER\Habit-Tracker\Ha
 D:\jtoba\Documents\Programacion\Proyectos\HABITOS\HABIT-TRACKER\Habit-Tracker\HabitTrackerApp.Core\obj\Debug\net10.0\refint\HabitTrackerApp.Core.dll
 D:\jtoba\Documents\Programacion\Proyectos\HABITOS\HABIT-TRACKER\Habit-Tracker\HabitTrackerApp.Core\obj\Debug\net10.0\HabitTrackerApp.Core.pdb
 D:\jtoba\Documents\Programacion\Proyectos\HABITOS\HABIT-TRACKER\Habit-Tracker\HabitTrackerApp.Core\obj\Debug\net10.0\ref\HabitTrackerApp.Core.dll
+D:\jtoba\Documents\Programacion\Proyectos\Habit-Tracker\Habit-Tracker\HabitTrackerApp.Core\bin\Debug\net10.0\HabitTrackerApp.Core.deps.json
+D:\jtoba\Documents\Programacion\Proyectos\Habit-Tracker\Habit-Tracker\HabitTrackerApp.Core\bin\Debug\net10.0\HabitTrackerApp.Core.dll
+D:\jtoba\Documents\Programacion\Proyectos\Habit-Tracker\Habit-Tracker\HabitTrackerApp.Core\bin\Debug\net10.0\HabitTrackerApp.Core.pdb
+D:\jtoba\Documents\Programacion\Proyectos\Habit-Tracker\Habit-Tracker\HabitTrackerApp.Core\obj\Debug\net10.0\HabitTrackerApp.Core.csproj.AssemblyReference.cache
+D:\jtoba\Documents\Programacion\Proyectos\Habit-Tracker\Habit-Tracker\HabitTrackerApp.Core\obj\Debug\net10.0\HabitTrackerApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\jtoba\Documents\Programacion\Proyectos\Habit-Tracker\Habit-Tracker\HabitTrackerApp.Core\obj\Debug\net10.0\HabitTrackerApp.Core.AssemblyInfoInputs.cache
+D:\jtoba\Documents\Programacion\Proyectos\Habit-Tracker\Habit-Tracker\HabitTrackerApp.Core\obj\Debug\net10.0\HabitTrackerApp.Core.AssemblyInfo.cs
+D:\jtoba\Documents\Programacion\Proyectos\Habit-Tracker\Habit-Tracker\HabitTrackerApp.Core\obj\Debug\net10.0\HabitTrackerApp.Core.csproj.CoreCompileInputs.cache
+D:\jtoba\Documents\Programacion\Proyectos\Habit-Tracker\Habit-Tracker\HabitTrackerApp.Core\obj\Debug\net10.0\HabitTrackerApp.Core.sourcelink.json
+D:\jtoba\Documents\Programacion\Proyectos\Habit-Tracker\Habit-Tracker\HabitTrackerApp.Core\obj\Debug\net10.0\HabitTrackerApp.Core.dll
+D:\jtoba\Documents\Programacion\Proyectos\Habit-Tracker\Habit-Tracker\HabitTrackerApp.Core\obj\Debug\net10.0\refint\HabitTrackerApp.Core.dll
+D:\jtoba\Documents\Programacion\Proyectos\Habit-Tracker\Habit-Tracker\HabitTrackerApp.Core\obj\Debug\net10.0\HabitTrackerApp.Core.pdb
+D:\jtoba\Documents\Programacion\Proyectos\Habit-Tracker\Habit-Tracker\HabitTrackerApp.Core\obj\Debug\net10.0\ref\HabitTrackerApp.Core.dll

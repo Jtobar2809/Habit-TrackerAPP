@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: dark;
+  }
+
+  html, body, #root {
+    height: 100%;
+  }
+
+  body {
+    @apply bg-ink-950 text-ink-100 font-sans antialiased;
+    background-image:
+      radial-gradient(at 20% 10%, rgba(236, 31, 46, 0.18) 0px, transparent 50%),
+      radial-gradient(at 80% 0%, rgba(255, 107, 107, 0.08) 0px, transparent 50%),
+      radial-gradient(at 0% 90%, rgba(132, 22, 35, 0.22) 0px, transparent 50%);
+    background-attachment: fixed;
+  }
+
+  ::selection {
+    @apply bg-ember-500/40 text-white;
+  }
+
+  /* Scrollbar */
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    @apply bg-ink-900;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply bg-ember-700/40 rounded-full hover:bg-ember-600/60 transition-colors;
+  }
+}
+
+@layer components {
+  .glass {
+    @apply bg-ink-900/60 backdrop-blur-xl border border-white/5;
+  }
+
+  .glass-strong {
+    @apply bg-ink-900/80 backdrop-blur-2xl border border-white/10;
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-br from-ember-300 via-ember-500 to-ember-700 bg-clip-text text-transparent;
+  }
+
+  .ring-focus {
+    @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ember-500/70 focus-visible:ring-offset-2 focus-visible:ring-offset-ink-950;
+  }
+
+  .skeleton {
+    background: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0.04) 0%,
+      rgba(255, 255, 255, 0.10) 50%,
+      rgba(255, 255, 255, 0.04) 100%
+    );
+    background-size: 200% 100%;
+    @apply animate-shimmer rounded-md;
+  }
+}

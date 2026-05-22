@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U3FPHd817KE=",
+  "dgSpecHash": "L116l95WsvA=",
   "success": true,
-  "projectFilePath": "D:\\jtoba\\Documents\\Programacion\\Proyectos\\HABITOS\\HABIT-TRACKER\\Habit-Tracker\\HabitTrackerApp.Api\\HabitTrackerApp.Api.csproj",
+  "projectFilePath": "D:\\jtoba\\Documents\\Programacion\\Proyectos\\Habit-Tracker\\Habit-Tracker\\HabitTrackerApp.Api\\HabitTrackerApp.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jtoba\\.nuget\\packages\\dapper\\2.1.72\\dapper.2.1.72.nupkg.sha512",
     "C:\\Users\\jtoba\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.8\\microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",

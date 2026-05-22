@@ -822,11 +822,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\jtoba\\Documents\\Programacion\\Proyectos\\HABITOS\\HABIT-TRACKER\\Habit-Tracker\\HabitTrackerApp.Api\\HabitTrackerApp.Api.csproj",
+      "projectUniqueName": "D:\\jtoba\\Documents\\Programacion\\Proyectos\\Habit-Tracker\\Habit-Tracker\\HabitTrackerApp.Api\\HabitTrackerApp.Api.csproj",
       "projectName": "HabitTrackerApp.Api",
-      "projectPath": "D:\\jtoba\\Documents\\Programacion\\Proyectos\\HABITOS\\HABIT-TRACKER\\Habit-Tracker\\HabitTrackerApp.Api\\HabitTrackerApp.Api.csproj",
+      "projectPath": "D:\\jtoba\\Documents\\Programacion\\Proyectos\\Habit-Tracker\\Habit-Tracker\\HabitTrackerApp.Api\\HabitTrackerApp.Api.csproj",
       "packagesPath": "C:\\Users\\jtoba\\.nuget\\packages\\",
-      "outputPath": "D:\\jtoba\\Documents\\Programacion\\Proyectos\\HABITOS\\HABIT-TRACKER\\Habit-Tracker\\HabitTrackerApp.Api\\obj\\",
+      "outputPath": "D:\\jtoba\\Documents\\Programacion\\Proyectos\\Habit-Tracker\\Habit-Tracker\\HabitTrackerApp.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jtoba\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -841,8 +841,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "D:\\jtoba\\Documents\\Programacion\\Proyectos\\HABITOS\\HABIT-TRACKER\\Habit-Tracker\\HabitTrackerApp.Core\\HabitTrackerApp.Core.csproj": {
-              "projectPath": "D:\\jtoba\\Documents\\Programacion\\Proyectos\\HABITOS\\HABIT-TRACKER\\Habit-Tracker\\HabitTrackerApp.Core\\HabitTrackerApp.Core.csproj"
+            "D:\\jtoba\\Documents\\Programacion\\Proyectos\\Habit-Tracker\\Habit-Tracker\\HabitTrackerApp.Core\\HabitTrackerApp.Core.csproj": {
+              "projectPath": "D:\\jtoba\\Documents\\Programacion\\Proyectos\\Habit-Tracker\\Habit-Tracker\\HabitTrackerApp.Core\\HabitTrackerApp.Core.csproj"
             }
           }
         }
